@@ -1,7 +1,7 @@
 #!/bin/bash
 # Trojan install
 # Author: Tony<https://git.io/Tony>
-# bash <(curl -sL https://git.io/Trojan.sh)
+# bash <(curl -sL https://git.io/Trojan-go.sh)
 # sudo apt-get install -y curl
 # yum install -y curl
 RED="\033[31m"      # Error message
